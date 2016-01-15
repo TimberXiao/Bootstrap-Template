@@ -1,2 +1,3 @@
 # Bootstrap-Template
-Using Bootstrap tamplate
+Using Bootstrap template
+
